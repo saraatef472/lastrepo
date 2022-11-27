@@ -857,22 +857,22 @@
         display: flex;
     }
     .spon {
-        font-size: 23px;
+        font-size: 17px;
         margin-left: 0.2%;
         color: rgb(6, 5, 5);
         font-weight: 400;
     }
     .arrows>button {
-        font-size: 10px;
+        font-size: 7px;
     }
     .arrow {
-        margin-left: 25%;
+        margin-left: 14%;
     }
     .arrow2 {
-        margin-left: 23%;
+        margin-left: 19%;
     }
     .arrow2>button {
-        font-size: 13px;
+        font-size: 12px;
     }
     .imggg>img {
         height: 120px
@@ -891,10 +891,10 @@
         font-weight: 400;
     }
     .arrows>button {
-        font-size: 15px;
+        font-size: 14px;
     }
     .arrow {
-        margin-left: 25%;
+        margin-left: 13%;
     }
     .imggg>img {
         height: 200px
