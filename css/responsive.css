@@ -885,7 +885,7 @@
         display: flex;
     }
     .spon {
-        font-size: 23px;
+        font-size: 19px;
         margin-left: 0.2%;
         color: rgb(6, 5, 5);
         font-weight: 400;
@@ -894,7 +894,7 @@
         font-size: 14px;
     }
     .arrow {
-        margin-left: 13%;
+        margin-left: 10%;
     }
     .imggg>img {
         height: 200px
